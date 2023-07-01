@@ -6,7 +6,7 @@ package normaljava;
 import java.util.Scanner;
 
 
-public class Java_GitHub {
+public class Main {
 	public static void main(String[] args) {
 		Scanner s=new Scanner(System.in);
 		
